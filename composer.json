@@ -4,7 +4,7 @@
 	"minimum-stability" : "beta",
 	"description": "Estonian language pack.",
 	"homepage": "https://github.com/mcronalds/flarum-ext-estonian",
-	"keywords": ["locale"],
+	"keywords": ["locale", "language", "multilanguage"],
 	"license": "MIT",
 	"support": {
         "issues": "https://github.com/mcronalds/flarum-ext-estonian/issues",
