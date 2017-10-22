@@ -9,8 +9,8 @@ flarum-flags:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      flag_posts_label: Märgista postitused
-      view_flags_label: Vaata märgistatud postitusi
+      flag_posts_label: Luba märgista postitused
+      view_flags_label: Luba vaadata märgistatud postitusi
 
     # These translations are used in the Flags Settings modal dialog.
     settings:
