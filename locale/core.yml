@@ -135,22 +135,22 @@ core:
       allow_renaming_label: Luba arutelu ümbernimetada
       allow_post_editing_label: Luba postitust redigeerida
       create_heading: Loomine
-      delete_discussions_forever_label: Kustutada arutelusi igavesti
-      delete_discussions_label: Kustutada arutelusi
-      delete_posts_forever_label: Kustutada postitusi igavesti
-      edit_and_delete_posts_label: Postituste muutmine ja kustutamine
+      delete_discussions_forever_label: Luba kustutada arutelusi igavesti
+      delete_discussions_label: Luba kustutada arutelusi
+      delete_posts_forever_label: Luba kustutada postitusi igavesti
+      edit_and_delete_posts_label: Luba muuta ja kustutada postitusi
       global_heading: Globaalne
       moderate_heading: Modereerimine
       new_group_button: Uus rühm...
       participate_heading: Osalemine
-      read_heading: Lugemine
+      read_heading: Vaade
       rename_discussions_label: Luba arutelusi ümbernimetada
       reply_to_discussions_label: Luba vasta aruteludele
-      sign_up_label: Registreerimine
+      sign_up_label: Registreerumine
       start_discussions_label: Luba alustada arutelu
       view_discussions_label: Luba vaadata arutlusi
       view_post_ips_label: Vaadata postituse IP-aadresse
-      view_user_list_label: Vaadata kasutajate nimekirja
+      view_user_list_label: Luba vaadata kasutajate nimekirja
 
     # These translations are used in the dropdown menus on the Permissions page.
     permissions_controls:

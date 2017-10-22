@@ -9,7 +9,7 @@ flarum-suspend:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      suspend_users_label: Kasutajate peatamine
+      suspend_users_label: Luba peatada kasutajaid
 
   # Translations in this namespace are used by the forum user interface.
   forum:
