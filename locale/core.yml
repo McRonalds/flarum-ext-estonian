@@ -47,7 +47,7 @@ core:
       show_language_selector_label: Näita keelevalijat
       submit_button: => core.ref.save_changes
       welcome_banner_heading: Tervitus Bänner
-      welcome_banner_text: "Konfigureerige tekst, mis kuvatakse 'Kõik arutelud' lehe bänneris. Kasutage seda, et tervitada külalisi foorumisse.""
+      welcome_banner_text: "Konfigureerige tekst, mis kuvatakse 'Kõik arutelud' lehe bänneris. Kasutage seda, et tervitada külalisi foorumisse."
 
     # These translations are used in the Dashboard page.
     dashboard:
