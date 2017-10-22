@@ -1,6 +1,7 @@
 {
 	"name": "mcronalds/flarum-ext-estonian",
 	"type": "flarum-extension",
+	"version": "1.0",
 	"description": "Estonian language pack.",
 	"homepage": "https://github.com/mcronalds/flarum-ext-estonian",
 	"keywords": ["locale"],
