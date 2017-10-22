@@ -1,5 +1,5 @@
 {
-	"name": "flarum/flarum-ext-estonian",
+	"name": "mcronalds/flarum-ext-estonian",
 	"type": "flarum-extension",
 	"description": "Estonian language pack.",
 	"homepage": "https://github.com/mcronalds/flarum-ext-estonian",
