@@ -132,25 +132,25 @@ core:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      allow_renaming_label: Luba ümbernimetamine
-      allow_post_editing_label: Luba postituse redigeerimine
-      create_heading: Loo
-      delete_discussions_forever_label: Kustuta arutelud igavesti
-      delete_discussions_label: Kustuta arutelud
-      delete_posts_forever_label: Kustuta postitused igavesti
+      allow_renaming_label: Luba arutelu ümbernimetada
+      allow_post_editing_label: Luba postitust redigeerida
+      create_heading: Loomine
+      delete_discussions_forever_label: Kustutada arutelusi igavesti
+      delete_discussions_label: Kustutada arutelusi
+      delete_posts_forever_label: Kustutada postitusi igavesti
       edit_and_delete_posts_label: Postituste muutmine ja kustutamine
       global_heading: Globaalne
-      moderate_heading: Modereeri
+      moderate_heading: Modereerimine
       new_group_button: Uus rühm...
-      participate_heading: Osale
-      read_heading: Loe
+      participate_heading: Osalemine
+      read_heading: Lugemine
       rename_discussions_label: Ümbernimeta arutelud
-      reply_to_discussions_label: Vasta aruteludele
-      sign_up_label: Registreeri
-      start_discussions_label: Alusta arutelud
-      view_discussions_label: Vaata arutelusid
-      view_post_ips_label: Vaata postituse IP-aadresse
-      view_user_list_label: Vaata kasutajate nimekirja
+      reply_to_discussions_label: Luba vasta aruteludele
+      sign_up_label: Registreerimine
+      start_discussions_label: Luba alustada arutelu
+      view_discussions_label: Luba vaadata arutlusi
+      view_post_ips_label: Vaadata postituse IP-aadresse
+      view_user_list_label: Vaadata kasutajate nimekirja
 
     # These translations are used in the dropdown menus on the Permissions page.
     permissions_controls:
