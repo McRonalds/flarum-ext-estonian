@@ -285,7 +285,7 @@ core:
 
     # These translations are used by the sorting control above the discussion list.
     index_sort:
-      latest_button: Viimased
+      latest_button: Hiljutised
       newest_button: Uuemad
       oldest_button: Vanemad
       relevance_button: Asjakohased
