@@ -149,7 +149,7 @@ core:
       sign_up_label: Registreerumine
       start_discussions_label: Luba alustada arutelu
       view_discussions_label: Luba vaadata arutlusi
-      view_post_ips_label: Vaadata postituse IP-aadresse
+      view_post_ips_label: Luba vaadata postituse IP-aadresse
       view_user_list_label: Luba vaadata kasutajate nimekirja
 
     # These translations are used in the dropdown menus on the Permissions page.
