@@ -1,15 +1,13 @@
 //! moment.js locale configuration
 //! locale : Estonian [ee]
-//! author : Henry Kehlmann : https://github.com/madhenry
-//! improvements : Illimar Tambek : https://github.com/ragulka
-//! improvements & small fixes : https://github.com/mcronalds
+//! based on : https://github.com/moment/moment/blob/develop/locale/et.js
 
 ;(function (global, factory) {
-	typeof exports === 'object' && typeof module !== 'undefined'
-		&& typeof require === 'function' ? factory(require('../moment')) :
-	typeof define === 'function' && define.amd ? define(['../moment'], factory) :
-	factory(global.moment)
- }(this, (function (moment) { 'use strict';
+   typeof exports === 'object' && typeof module !== 'undefined'
+       && typeof require === 'function' ? factory(require('../moment')) :
+   typeof define === 'function' && define.amd ? define(['../moment'], factory) :
+   factory(global.moment)
+}(this, (function (moment) { 'use strict';
  
  
  function processRelativeTime(number, withoutSuffix, key, isFuture) {
