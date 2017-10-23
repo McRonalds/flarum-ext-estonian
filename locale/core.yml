@@ -532,7 +532,7 @@ core:
     save_changes: Salvesta Muudatused                   # Referenced by flarum-suspend.yml, flarum-tags.yml
     settings: Seaded
     sign_up: Registreeru
-    some_others: "{count} muu|{count} muud"  # Referenced by flarum-likes.yml, flarum-mentions.yml
+    some_others: "{count} muule|{count} muud"  # Referenced by flarum-likes.yml, flarum-mentions.yml
     start_a_discussion: Alusta Arutelu
     username: Kasutajanimi
     write_a_reply: Kirjuta Vastus...
