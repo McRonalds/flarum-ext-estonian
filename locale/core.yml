@@ -536,7 +536,7 @@ core:
     start_a_discussion: Alusta Arutelu
     username: Kasutajanimi
     write_a_reply: Kirjuta Vastus...
-    you: Sina                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
+    you: Sulle                                     # Referenced by flarum-likes.yml, flarum-mentions.yml
 
   ##
   # GROUP NAMES - These keys are translated at the back end.
